@@ -1,8 +1,8 @@
 {
-  "name": "📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶",
-  "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/Nipuna-apps/Blue-Lione-Bot",
-  "logo": "https://i.ibb.co/fdVNVby/337211b6aaa25af5dc698da9e41691a0.jpg",
+  "name": "📶 ᴰᴬᴿᴷ╱ɴɪᴠᴢʏㅤ亗 📶",
+  "description": "whatsapp  bot ",
+  "repository": "https://github.com/madhushan-apps/Blue-Lione-Bot",
+  "logo": "https://telegra.ph/file/3bd146aeb14701ccfdbe0.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
